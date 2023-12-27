@@ -22,6 +22,8 @@ In the initial preparation phase, we performed the following task
   3. Data cleaning and formatting
 
 ### Analysis and Visualization
+![New York Trip 1](https://github.com/Adefemi010/New-York-City-Taxi-Trips-Analysis/assets/149597242/69e524ce-2e7e-48d9-8fc5-464549abae09)
+![New York Trip 2](https://github.com/Adefemi010/New-York-City-Taxi-Trips-Analysis/assets/149597242/c4087563-456f-41ab-b9ff-6008f17b46d3)
 
 
 
