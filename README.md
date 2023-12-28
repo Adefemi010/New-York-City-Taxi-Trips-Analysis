@@ -2,9 +2,9 @@
 Analysis of Trips made by New York Taxis between 2017 and 2018
 
 ### Project Overview
-Welcome to my analytical journey through the bustling streets of New York City, as we delve into the intricate patterns and dynamics of taxi trips over the course of 2017 and 2018. This project aims to uncover the hidden narratives behind the millions of journeys that paint the ever-moving picture of this iconic metropolis.
+Welcome to my analytical journey through the bustling streets of New York City, as I delve into the intricate patterns and dynamics of taxi trips over the course of 2017 and 2018. This project aims to uncover the hidden narratives behind the millions of journeys that paint the ever-moving picture of this iconic metropolis.
 
-Leveraging robust datasets, we will employ advanced data analysis techniques to dissect the ebb and flow of New York's taxi services. Our exploration will be powered by the latest tools in data analytics, including Power BI for compelling visualizations.
+Leveraging robust datasets, I will employ advanced data analysis techniques to dissect the ebb and flow of New York's taxi services. My exploration will be powered by the latest tools in data analytics, including Power BI for compelling visualizations.
 
 Key areas of focus will include:
 
