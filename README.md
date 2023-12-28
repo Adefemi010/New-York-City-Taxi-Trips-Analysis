@@ -13,16 +13,18 @@ Key areas of focus will include:
   3. Economic Insights: Estimating the financial impact of taxi services on the urban economy.
   4. Operational Efficiency: Assessing the effectiveness of current taxi dispatch and routing systems.
 
-Through this project, we aim to provide valuable insights that could inform policy-making, enhance operational efficiencies, and improve the overall experience for both taxi operators and passengers alike. Join us as we navigate through the data, uncovering the pulse of New York City's streets through the lens of its taxi cabs.
+Through this project, I aim to provide valuable insights that could inform policy-making, enhance operational efficiencies, and improve the overall experience for both taxi operators and passengers alike. Join me as I navigate through the data, uncovering the pulse of New York City's streets through the lens of its taxi cabs.
 
 ### Data Cleaning and Preparation
-In the initial preparation phase, we performed the following task
+In the initial preparation phase, I performed the following task
   1. Data loading and inspection
   2. Handling duplicate and missing values
   3. Data cleaning and formatting
 
 ### Analysis and Visualization
 ![New York Trip 1](https://github.com/Adefemi010/New-York-City-Taxi-Trips-Analysis/assets/149597242/69e524ce-2e7e-48d9-8fc5-464549abae09)
+
+
 ![New York Trip 2](https://github.com/Adefemi010/New-York-City-Taxi-Trips-Analysis/assets/149597242/c4087563-456f-41ab-b9ff-6008f17b46d3)
 
 
